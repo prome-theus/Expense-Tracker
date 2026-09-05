@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Coffee",
+        "amount": 120.0,
+        "category": "Food",
+        "date": "2026-09-05"
+    },
+    {
+        "name": "Bus",
+        "amount": 50.0,
+        "category": "Transport",
+        "date": "2026-09-05"
+    }
+]
