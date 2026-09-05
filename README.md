@@ -102,6 +102,6 @@ The program loads this file when it starts and saves it whenever an expense is a
 
 ## 👨‍💻 Author
 
-**Your Name**
+**VAIBHAV RAJ**
 
 Replace `Your Name` with your name before publishing the project.
